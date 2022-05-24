@@ -8,7 +8,10 @@
 </div>
 </br>
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/ C language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ C ++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  </div>
 
 
 
@@ -19,5 +22,4 @@
 ### Hi I'm Jung Daegun 👋&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:hgy31337@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </br>
 </br>
-<img src="https://img.shields.io/badge/ C language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
