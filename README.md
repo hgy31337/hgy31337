@@ -1,6 +1,7 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jung%20Daegun)
-![Alt text](main "back_dark")
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jung%20Daegun) 
+![배경](back_dark.PNG "back_dark")
+
 
 
 
