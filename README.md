@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&text=Jung%20Daegun&fontColor=F6F6F6&section=footer&fontAlignY=50&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&text=Jung%20Daegun&fontColor=F6F6F6&section=footer&fontAlignY=50&height=270)
 </br>
 
 <div align="center">
