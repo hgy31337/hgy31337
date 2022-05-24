@@ -2,7 +2,7 @@
 </br>
 </br>
 </br>
-# :notebook_with_decorative_cover: &nbsp; I'm learning... &nbsp; :pencil2:
+# :notebook_with_decorative_cover:&nbsp;I'm learning...&nbsp;:pencil2:
 </br>
 
 
