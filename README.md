@@ -19,16 +19,15 @@
 
 <div align="center">
   
-### Something I can handle...
-  <img src="https://img.shields.io/badge/Synology DiskStation-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/>
+### :wrench: Something I can handle...:wrench:
+<img src = "https://img.shields.io/badge/Synology DiskStation-B5B5B6?style=flat-square&logo=Synology&logoColor=white" width="20%" height="20%"/>
+  <img src = "https://img.shields.io/badge/Synology DSM-B5B5B6?style=flat-square&logo=Synology&logoColor=white" width="15%" height="20%"/>
+  
 </div>
 </br>
 </br>
 </br>
 
-
-<img src="https://img.shields.io/badge/Synology DiskStation-B5B5B6?style=flat-square&logo=Synology&logoColor=white">
-<img src="https://img.shields.io/badge/Synology DiskStation-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/width="20%" height="20%">
 
 
 
