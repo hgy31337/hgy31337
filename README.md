@@ -19,10 +19,17 @@
 <div align="center">
   
 ### Something I can handle...
+  <img src="https://img.shields.io/badge/Synology DiskStation-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/>
 </div>
 </br>
 </br>
 </br>
+
+
+<img src="https://img.shields.io/badge/Synology DiskStation-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/>
+<img src="https://img.shields.io/badge/Synology DiskStation-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/width="20%" height="20%">
+
+
 
 
 ### Hi I'm Jung Daegun 👋&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:hgy31337@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
