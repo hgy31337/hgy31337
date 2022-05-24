@@ -14,13 +14,18 @@
   <img src="https://img.shields.io/badge/ Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/ Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ Kali-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/>
-  
   </div>
+</br>
+</br>
+</br>
 
-
-
-
-
+<div align="center">
+  
+### Something I can handle...
+</div>
+</br>
+</br>
+</br>
 
 
 ### Hi I'm Jung Daegun 👋&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:hgy31337@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
