@@ -4,7 +4,6 @@
 </br>
 # :notebook_with_decorative_cover: &nbsp; I'm learning... &nbsp; :pencil2:
 </br>
-<center>가운데</center>
 
 
 
