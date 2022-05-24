@@ -35,8 +35,21 @@
 
 
 
+<div align="center">
+  
+### 👋&nbsp;Me&nbsp;👋
+  <a href="mailto:hgy31337@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </div>
 
-### Hi I'm Jung Daegun 👋&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:hgy31337@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+
+
+
+
+
+
+
+
+
 </br>
 </br>
 
