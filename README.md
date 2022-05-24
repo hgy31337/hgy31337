@@ -34,6 +34,9 @@
 
 
 
+<div align="center">
+  ### :gear: I can repair, assemble, disassemble... :gear:
+
 
 <div align="center">
   
@@ -45,7 +48,7 @@
 
 
 
-:screwdriver: 
+:gear:
 
 
 
