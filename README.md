@@ -5,9 +5,6 @@
 <div align="center">
 
   # :notebook_with_decorative_cover:&nbsp;I'm learning...&nbsp;:pencil2:
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/ Cisco Netacad-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/ C language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/ C ++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
