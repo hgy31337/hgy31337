@@ -38,11 +38,16 @@
   
   #### :gear: I can repair, assemble, disassemble... :gear:
   <img src = "https://img.shields.io/badge/ Apple-000000?style=flat-square&logo=Apple&logoColor=white" width="8%" height="20%"/>
-  <img src = "https://img.shields.io/badge/ Samsung Mobile-1428A0?style=flat-square&logo=Samsung&logoColor=white" width="17%" height="20%"/>
-  <img src = "https://img.shields.io/badge/%E2%8C%A8-Custom%20Keyboard-lightgrey" width="17%" height="20%"/>
+  <img src = "https://img.shields.io/badge/ Samsung Mobile-1428A0?style=flat-square&logo=Samsung&logoColor=white" width="16%" height="20%"/>
+  </br>
+  <img src = "https://img.shields.io/badge/%F0%9F%93%B1-etc%20Device-lightgrey" width="11%" height="20%"/>
+  <img src = "https://img.shields.io/badge/%E2%8C%A8-Custom%20Keyboard-lightgrey" width="16%" height="20%"/>
  
   
 </div>
+</br>
+</br>
+</br>
 
 <div align="center">
   
@@ -54,7 +59,6 @@
 
 
 
-:gear:
 
 
 
