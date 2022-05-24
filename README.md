@@ -53,4 +53,5 @@
   
 ### 👋&nbsp;Me&nbsp;👋
   <a href="mailto:hgy31337@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+    <a href="http://www.discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   </div>
