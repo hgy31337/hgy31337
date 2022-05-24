@@ -6,7 +6,6 @@
 
   # :notebook_with_decorative_cover:&nbsp;I'm learning...&nbsp;:pencil2:
 </div>
-</br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/ Cisco Netacad-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/>
