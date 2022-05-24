@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&text=Jung%20Daegun&fontColor=F6F6F6&section=footer&fontAlignY=70)</br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&text=Jung%20Daegun&fontColor=F6F6F6&section=footer&fontAlignY=70)
 </br>
 </br>
-</br>
+
 <div align="center">
 
   # :notebook_with_decorative_cover:&nbsp;I'm learning...&nbsp;:pencil2:
 </div>
-</br>
+
 
 
 
