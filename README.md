@@ -36,10 +36,10 @@
 <div align="center">
   
   #### :gear: I can repair, assemble, disassemble... :gear:
-  <a href="https://ko.ifixit.com/Guide"><img src = "https://img.shields.io/badge/ Apple-000000?style=flat-square&logo=Apple&logoColor=white" width="8%" height="20%"/>
+  <a href="https://ko.ifixit.com/Device/iPhone"><img src = "https://img.shields.io/badge/ Apple-000000?style=flat-square&logo=Apple&logoColor=white" width="8%" height="20%"/>
   <a href="https://www.samsungsvc.co.kr/"><img src = "https://img.shields.io/badge/ Samsung Mobile-1428A0?style=flat-square&logo=Samsung&logoColor=white" width="16%" height="20%"/>
   </br>
-  <img src = "https://img.shields.io/badge/%F0%9F%93%B1-etc%20Device-lightgrey" width="11%" height="20%"/>
+  <a href="https://ko.ifixit.com/Device/iPhone"><img src = "https://img.shields.io/badge/%F0%9F%93%B1-etc%20Device-lightgrey" width="11%" height="20%"/>
   <a href="http://www.kbdmania.net/xe/"><img src = "https://img.shields.io/badge/%E2%8C%A8-Custom%20Keyboard-lightgrey" width="16%" height="20%"/>
  
   
