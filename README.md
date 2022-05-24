@@ -2,9 +2,17 @@
 </br>
 </br>
 </br>
+# I'm learning...
+
+
+
+
+
+
+
+
 ### Hi I'm Jung Daegun 👋&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:hgy31337@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </br>
-_____________________________________________________________________________
 </br>
 <img src="https://img.shields.io/badge/ C language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
